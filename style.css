@@ -1,0 +1,48 @@
+nav{
+display:flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 5px;
+padding-left: 30%;
+padding-right: 10%;
+font-weight: bold;
+
+}
+
+h1{
+    color: rgb(218, 5, 5);
+    font-size: 45px;
+
+    
+}
+ul li{
+    list-style: none;
+    background: linear-gradient(
+        90deg,
+        rgba(0, 54, 204, 0.734)0%,
+        rgba(0, 0, 0, 0.656)70%
+        
+    );
+    padding: auto;
+    display: inline-block;
+    padding: 4px 30px;
+    
+
+}
+a{
+    color: rgba(255, 255, 255, 0.872);
+    text-decoration:none;
+
+
+}
+
+a:hover{
+  position: relative;
+        color:rgba(0, 0, 0, 0)
+}
+
+
+
+
+   
+
